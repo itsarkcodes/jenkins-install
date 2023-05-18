@@ -48,7 +48,7 @@ https://localhost:8080/
 https://www.jenkins.io/doc/book/installing/docker/
 
 
-## alpine/socat container to forward traffic from Jenkins to Docker Desktop on Host Machine
+## Alpine/socat container to forward traffic from Jenkins to Docker Desktop on Host Machine
 
 https://stackoverflow.com/questions/47709208/how-to-find-docker-host-uri-to-be-used-in-jenkins-docker-plugin
 ```
